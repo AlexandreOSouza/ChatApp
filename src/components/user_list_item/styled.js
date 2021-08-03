@@ -5,7 +5,7 @@ export const UserListItemStyled = styled.div`
     width: 90%;
     height: 10%;
 
-    box-shadow: ${props => props.isSelected ? '0px 8px 40px rgba(0, 72, 251, 0.3)' : ''};
+    box-shadow: ${props => props.isSelected ? '0px 8px 20px rgba(0, 72, 251, 0.3)' : ''};
     border-radius: 14px;
 
     display: flex;
@@ -13,6 +13,8 @@ export const UserListItemStyled = styled.div`
 
 
     cursor: pointer;
+
+    margin-bottom: 2.5vh;
 
     .profilePicContainer {
         margin-left: 0.8vw;

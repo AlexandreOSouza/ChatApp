@@ -25,6 +25,51 @@
             "sendAt": "2020-06-17",
             "profilePic": "https://scontent.fcgh45-1.fna.fbcdn.net/v/t1.6435-1/cp0/p40x40/190108149_330516608441542_552360985680155165_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=c6021c&_nc_eui2=AeHZljlafg6JL8z6yUWAXzUsDVhdmFe3CboNWF2YV7cJusD_xHkX91gf-R5OnscBLf4PhMbLfP3K8ji6vyqYDneD&_nc_ohc=f7CK8OzWBo0AX92dTBd&_nc_ht=scontent.fcgh45-1.fna&oh=9dba7dd0a49cdcf95697ee1ee52035ba&oe=612F7F88",
             "currentStatus": 0,
+            "profileStatus": "Busy"
+        },
+        {
+            "id": 4,
+            "userName": "Jocelyn Donin",
+            "lastMessage": "Our new project will be awesome...",
+            "sendAt": "2020-06-16",
+            "profilePic": "https://scontent.fcgh45-1.fna.fbcdn.net/v/t1.6435-1/cp0/p40x40/196190861_332835484865907_1093422946898085592_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=c6021c&_nc_eui2=AeEWkSmbyYKa-S9KDSGBOqJi6VCnL8v6lhfpUKcvy_qWF3tBlezuf5f9daj7hnnS8eJdSIFl7D2jy2wxyUUbIdiH&_nc_ohc=G3v5LHZyBNQAX9s5z1w&_nc_ht=scontent.fcgh45-1.fna&oh=767d7c44dbee688077cf8dd78fb193b6&oe=612EB6E1",
+            "currentStatus": 0,
+            "profileStatus": "Busy"
+        },
+        {
+            "id": 5,
+            "userName": "Davis Dorwart",
+            "lastMessage": "Davis please call me when you...",
+            "sendAt": "2020-06-16",
+            "profilePic": "https://scontent.fcgh45-1.fna.fbcdn.net/v/t1.6435-1/cp0/p40x40/79685779_578355232929875_8526917904120152064_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=1eb0c7&_nc_eui2=AeHisy36fa3Rz1cruR-h10xvvEdHKmKAgvS8R0cqYoCC9H8TKkWDtubgH4CErIhcyiWzMnYHFcaFDRnwsUag2BM_&_nc_ohc=2bE4mpdodlUAX9cRFIT&_nc_ht=scontent.fcgh45-1.fna&oh=2c3edf57cb4d77fd704b82e29d53ace0&oe=612F6D9D",
+            "currentStatus": 1,
+            "profileStatus": "Meeting"
+        },
+        {
+            "id": 6,
+            "userName": "Rayna Bator",
+            "lastMessage": "I did it yesterday.",
+            "sendAt": "2020-06-16",
+            "profilePic": "https://scontent.fcgh45-1.fna.fbcdn.net/v/t1.6435-1/cp0/c65.65.770.770a/s40x40/187943142_264218298726292_5899685542492224393_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=c6021c&_nc_eui2=AeFNaYWKnw6AqTF-PzC3iS6oDYFDAltJkPINgUMCW0mQ8kLCVCN7heBLIWrjNOBbVMYaU2Xzgkg49S431cxedDuN&_nc_ohc=_fUAz6DB2hIAX-9DVi3&_nc_ht=scontent.fcgh45-1.fna&oh=71e39b2e8d851657f4f866100fa5a433&oe=612C6759",
+            "currentStatus": 0,
+            "profileStatus": "Meeting"
+        },
+        {
+            "id": 7,
+            "userName": "James Kenter",
+            "lastMessage": "No way :)",
+            "sendAt": "2020-06-16",
+            "profilePic": "https://scontent.fcgh45-1.fna.fbcdn.net/v/t1.6435-1/cp0/p40x40/155573152_272925017533695_1445932871172800978_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=c6021c&_nc_eui2=AeHj3HEIT1F3cROHizW8ujLBsqB4pE5Jgm6yoHikTkmCbpW1DRkSGnDynDO4aU-IAudQzorn4LixKW-ovPKcYvmm&_nc_ohc=Ps4aPRq7-f4AX80YE6I&tn=v70PPTspSVEZXBF2&_nc_ht=scontent.fcgh45-1.fna&oh=a969ad0b635e8f088e56f411cf0703aa&oe=612F71A3",
+            "currentStatus": 1,
+            "profileStatus": "Meeting"
+        },
+        {
+            "id": 8,
+            "userName": "Jaylon Botosh",
+            "lastMessage": "I'll send you the files today.",
+            "sendAt": "2020-06-15",
+            "profilePic": "https://scontent.fcgh45-1.fna.fbcdn.net/v/t1.6435-1/cp0/p40x40/155573152_272925017533695_1445932871172800978_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=c6021c&_nc_eui2=AeHj3HEIT1F3cROHizW8ujLBsqB4pE5Jgm6yoHikTkmCbpW1DRkSGnDynDO4aU-IAudQzorn4LixKW-ovPKcYvmm&_nc_ohc=Ps4aPRq7-f4AX80YE6I&tn=v70PPTspSVEZXBF2&_nc_ht=scontent.fcgh45-1.fna&oh=a969ad0b635e8f088e56f411cf0703aa&oe=612F71A3",
+            "currentStatus": 1,
             "profileStatus": "Working"
         }
     ]

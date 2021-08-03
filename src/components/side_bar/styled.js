@@ -22,7 +22,8 @@ export const SideBarStyled = styled.div`
         height: -webkit-fill-available;
 
         display: flex;
-        justify-content: center;
+        flex-direction: column;
+        align-items: center;
     }
 
     .sidebar_footer {
