@@ -1,0 +1,13 @@
+{
+    "chats": [
+        {
+            "id": 1,
+            "userName": "Phillip Torff",
+            "lastMessage": "Thank you Phillip!",
+            "sendAt": "2020-06-17",
+            "profilePic": "https://scontent.fcgh45-1.fna.fbcdn.net/v/t1.6435-1/cp0/c0.6.40.40a/p40x40/218244325_833430823963484_1040774048529894829_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=7206a8&_nc_eui2=AeG6i8Scr6VYRObX7P4zhv4O29pgfUjWSkrb2mB9SNZKSh7N0OWkbTFO_XWMLJsq_MVUtD5naY1K8xONV8ZjSLGu&_nc_ohc=-vVCe93uV6UAX-ppKqk&_nc_oc=AQmMrVQkB3mF-Y5aTTDHzqWFJxPDXaDvhyUrsXg3Xr_tFQDCWg6elmqtUVl85SUEPDA&_nc_ht=scontent.fcgh45-1.fna&oh=8810f8a9df44533711e2b3761a087f06&oe=612E48F3",
+            "currentStatus": -1,
+            "profileStatus": "Working"
+        }
+    ]
+}

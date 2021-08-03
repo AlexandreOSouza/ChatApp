@@ -12,4 +12,24 @@ export const SideBarStyled = styled.div`
 
     border-radius: 14px 14px 0px 0px;
 
+    display: flex;
+    flex-direction: column;
+
+    .sidebar_list {
+        padding: 0;
+        margin-top: 2vh;
+        width: 100%;
+        height: -webkit-fill-available;
+
+        display: flex;
+        justify-content: center;
+    }
+
+    .sidebar_footer {
+        padding: 0;
+        width: 94%;
+        height: 10%;
+        margin-left: 0.5vw;
+    }
+
 `
