@@ -8,6 +8,24 @@
             "profilePic": "https://scontent.fcgh45-1.fna.fbcdn.net/v/t1.6435-1/cp0/c0.6.40.40a/p40x40/218244325_833430823963484_1040774048529894829_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=7206a8&_nc_eui2=AeG6i8Scr6VYRObX7P4zhv4O29pgfUjWSkrb2mB9SNZKSh7N0OWkbTFO_XWMLJsq_MVUtD5naY1K8xONV8ZjSLGu&_nc_ohc=-vVCe93uV6UAX-ppKqk&_nc_oc=AQmMrVQkB3mF-Y5aTTDHzqWFJxPDXaDvhyUrsXg3Xr_tFQDCWg6elmqtUVl85SUEPDA&_nc_ht=scontent.fcgh45-1.fna&oh=8810f8a9df44533711e2b3761a087f06&oe=612E48F3",
             "currentStatus": -1,
             "profileStatus": "Working"
+        },
+        {
+            "id": 2,
+            "userName": "Alfredo Vetrovs",
+            "lastMessage": "OMW bro...",
+            "sendAt": "2020-06-17",
+            "profilePic": "https://scontent.fcgh45-1.fna.fbcdn.net/v/t1.6435-1/cp0/p40x40/53397840_2749973698362557_5500541311494651904_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=7206a8&_nc_eui2=AeG9gjN2tOQlDK7WWD7WAqMRdp25-cYg1LJ2nbn5xiDUsk6p9ZY6flv7X2Ihmkr5rIgfqKciFpi9QA4JllqrhswI&_nc_ohc=gcZ7xBFKeeYAX8JpDgG&_nc_ht=scontent.fcgh45-1.fna&oh=aa08c27604aad1c4a10ef89772060626&oe=612E44A1",
+            "currentStatus": 1,
+            "profileStatus": "Working"
+        },
+        {
+            "id": 3,
+            "userName": "Kierra Press",
+            "lastMessage": "Did you see the new movie of...",
+            "sendAt": "2020-06-17",
+            "profilePic": "https://scontent.fcgh45-1.fna.fbcdn.net/v/t1.6435-1/cp0/p40x40/190108149_330516608441542_552360985680155165_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=c6021c&_nc_eui2=AeHZljlafg6JL8z6yUWAXzUsDVhdmFe3CboNWF2YV7cJusD_xHkX91gf-R5OnscBLf4PhMbLfP3K8ji6vyqYDneD&_nc_ohc=f7CK8OzWBo0AX92dTBd&_nc_ht=scontent.fcgh45-1.fna&oh=9dba7dd0a49cdcf95697ee1ee52035ba&oe=612F7F88",
+            "currentStatus": 0,
+            "profileStatus": "Working"
         }
     ]
 }
