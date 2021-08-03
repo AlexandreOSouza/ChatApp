@@ -1,15 +1,18 @@
 import styled from 'styled-components'
 
 export const UserListItemStyled = styled.div`
-    background: #6588DE;
+    background: ${props => props.isSelected ? '#6588DE' : '#E3F6FC'};
     width: 90%;
     height: 10%;
 
-    box-shadow: 0px 8px 40px rgba(0, 72, 251, 0.3);
+    box-shadow: ${props => props.isSelected ? '0px 8px 40px rgba(0, 72, 251, 0.3)' : ''};
     border-radius: 14px;
 
     display: flex;
     align-items: center;
+
+
+    cursor: pointer;
 
     .profilePicContainer {
         margin-left: 0.8vw;
@@ -23,7 +26,7 @@ export const UserListItemStyled = styled.div`
         line-height: 21px;
         /* identical to box height */
 
-        color: #52585D;
+        color: ${props => props.isSelected ? ' #FDFDFE' : '#52585D'};
 
         margin-left: 1vw;
         width: 7vw;
@@ -34,9 +37,8 @@ export const UserListItemStyled = styled.div`
         flex-direction: column;
     }
 
-    // IF IS SELECTED
     .profileInfosContainer span:first-child {
-        color: #F2F6F7;
+        color: ${props => props.isSelected ? ' #FDFDFE' : '#52585D'};;
         font-style: normal;
         font-weight: 600;
         font-size: 12px;
@@ -44,7 +46,7 @@ export const UserListItemStyled = styled.div`
     }
 
     .profileInfosContainer span:last-child {
-        color: #F2F6F7;
+        color: ${props => props.isSelected ? ' #F2F6F7' : '#52585D'};
         font-style: normal;
         font-weight: 300;
         font-size: 10px;
@@ -52,7 +54,7 @@ export const UserListItemStyled = styled.div`
     }
 
     .profileMoreInfoContainer {
-        color: #FDFDFE;
+        color: ${props => props.isSelected ? ' #F2F6F7' : '#52585D'};
         font-family: 'Roboto', sans-serif;
         font-style: normal;
         font-weight: normal;
@@ -65,3 +67,4 @@ export const UserListItemStyled = styled.div`
         
     }
 `
+
