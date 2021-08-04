@@ -1,6 +1,6 @@
 import UserListItem from "../user_list_item";
 import { SideBarStyled } from "./styled";
-
+import SidebarFooter from "../side_bar_footer";
 
 function SideBar() {
     return (
@@ -11,9 +11,7 @@ function SideBar() {
             <div className="sidebar_list">
                 <UserListItem/>
             </div>
-            <div className="sidebar_footer">
-
-            </div>
+            <SidebarFooter/>
         </SideBarStyled>
     )
 }

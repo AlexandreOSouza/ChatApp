@@ -14,7 +14,7 @@ export const UserListItemStyled = styled.div`
 
     cursor: pointer;
 
-    margin-bottom: 2.5vh;
+    margin-bottom: 3vh;
 
     .profilePicContainer {
         margin-left: 0.8vw;

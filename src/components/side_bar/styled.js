@@ -24,13 +24,8 @@ export const SideBarStyled = styled.div`
         display: flex;
         flex-direction: column;
         align-items: center;
-    }
 
-    .sidebar_footer {
-        padding: 0;
-        width: 94%;
-        height: 10%;
-        margin-left: 0.5vw;
+        overflow-y: auto;
     }
 
 `

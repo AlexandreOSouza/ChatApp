@@ -1,5 +1,4 @@
 import { UserListItemStyled } from "./styled";
-import prof from "../../assets/img/eu1.jpg"
 import ProfilePicture from "../profile_picture";
 import { format } from 'date-fns'
 import { api } from '../../service/api'
@@ -25,7 +24,7 @@ function UserListItem() {
 
     return (
         <>
-            {chats.map((chat, index) => {
+            {chats.slice(5, chats.size).map((chat, index) => {
                 return (
                     <UserListItemStyled 
                         key={chat.id}
