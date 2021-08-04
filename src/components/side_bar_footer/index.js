@@ -7,7 +7,7 @@ import { useState } from "react";
 
 function SidebarFooter() {
 
-    const [iconClick, setIconClick] = useState()
+    const [iconClick, setIconClick] = useState(1)
 
     const handleClick = (click) => {
         setIconClick(click)

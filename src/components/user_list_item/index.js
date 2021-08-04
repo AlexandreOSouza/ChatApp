@@ -7,7 +7,7 @@ import React, { useEffect, useState } from "react";
 function UserListItem() {
 
     const [chats, setChats] = useState([]);
-    const [selectedChat, setSelectedChat] = useState(-1)
+    const [selectedChat, setSelectedChat] = useState(6)
 
     useEffect(() => {
         api
@@ -24,7 +24,7 @@ function UserListItem() {
 
     return (
         <>
-            {chats.slice(5, chats.size).map((chat, index) => {
+            {chats.slice(0, 5).map((chat, index) => {
                 return (
                     <UserListItemStyled 
                         key={chat.id}
