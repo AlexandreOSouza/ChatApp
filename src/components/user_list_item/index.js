@@ -7,7 +7,7 @@ import React, { useEffect, useState } from "react";
 function UserListItem() {
 
     const [chats, setChats] = useState([]);
-    const [selectedChat, setSelectedChat] = useState(6)
+    const [selectedChat, setSelectedChat] = useState(1)
 
     useEffect(() => {
         api
